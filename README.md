@@ -1,7 +1,9 @@
+![Video](https://github.com/muhammet-mucahit/bookshelf/blob/master/video/bookshelf.gif)
+
 ## Getting Started
 
 ### Pre-requisites and Local Development 
-Developers using this project should already have ***Python3*** ***pip*** and ***node*** installed on their local machines.
+Developers using this project should already have ***Python3***, ***pip*** and ***node*** installed on their local machines.
 
 #### Backend
 
